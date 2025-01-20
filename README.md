@@ -1,3 +1,4 @@
+# initial commit
 # Diffusion Policy
 
 [[Project page]](https://diffusion-policy.cs.columbia.edu/)
